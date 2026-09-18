@@ -46,7 +46,7 @@ public class Main {
         float floatNumber = 10.5f;
         double doubleNumber = 20.5;
         char character = 'A';
-        boolean isJavaFun = true;
+        boolean isActive = true;
 
         System.out.println(byteNumber);
         System.out.println(shortNumber);
@@ -55,7 +55,7 @@ public class Main {
         System.out.println(floatNumber);
         System.out.println(doubleNumber);
         System.out.println(character);
-        System.out.println(isJavaFun);
+        System.out.println(isActive);
     }
 
     public static void solution2() {
