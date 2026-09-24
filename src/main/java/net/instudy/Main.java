@@ -4,7 +4,32 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println("========== TASK 1 ==========");
+        solution1();
+
+        System.out.println("\n========== TASK 2 ==========");
+        solution2();
+
+        System.out.println("\n========== TASK 3 ==========");
+        solution3();
+
+        System.out.println("\n========== TASK 4 ==========");
+        solution4();
+
+        System.out.println("\n========== TASK 5 ==========");
+        solution5();
+
+        System.out.println("\n========== TASK 6 ==========");
         solution6();
+
+        System.out.println("\n========== TASK 7 ==========");
+        solution7();
+
+        System.out.println("\n========== TASK 8 ==========");
+        solution8();
+
+        System.out.println("\n========== TASK 9 ==========");
+        solution9();
     }
 
     //Create an array of size 10 and print its elements to the screen.
