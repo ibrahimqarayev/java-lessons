@@ -4,6 +4,7 @@
     <modules>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/java-lesson-17.iml" filepath="$PROJECT_DIR$/java-lesson-17.iml" />
 =======
       <module fileurl="file://$PROJECT_DIR$/java-lesson-18.iml" filepath="$PROJECT_DIR$/java-lesson-18.iml" />
@@ -13,6 +14,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Task-Management.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Task-Management.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Task-Management.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Task-Management.test.iml" />
 >>>>>>> task-management/main
+=======
+      <module fileurl="file://$PROJECT_DIR$/java-lesson-19.iml" filepath="$PROJECT_DIR$/java-lesson-19.iml" />
+>>>>>>> java-lesson-19/main
     </modules>
   </component>
 </project>
