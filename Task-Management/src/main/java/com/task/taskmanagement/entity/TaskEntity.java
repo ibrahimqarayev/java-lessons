@@ -25,7 +25,7 @@ public class TaskEntity {
 
     @Column(name = "task_status")
     @Enumerated(EnumType.STRING)
-    private TaskStatus taskStatus=TaskStatus.TODO;
+    private TaskStatus taskStatus;
 
     @Column(name = "task_priority")
     @Enumerated(EnumType.STRING)
@@ -34,8 +34,14 @@ public class TaskEntity {
     @Column(name = "task_weight")
     private String taskWeight;
 
-    private Boolean status=true;
+    private Boolean status = true;
 
     @Column(name = "created_at")
-    private LocalDateTime createdAt=LocalDateTime.now();
+    private LocalDateTime createdAt;
+
+    @PrePersist
+    public void onCreate() {
+        taskStatus = TaskStatus.TODO;
+        createdAt = LocalDateTime.now();
+    }
 }
