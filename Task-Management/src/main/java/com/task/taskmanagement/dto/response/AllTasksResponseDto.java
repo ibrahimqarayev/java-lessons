@@ -6,10 +6,8 @@ import lombok.AllArgsConstructor;
 import java.time.LocalDateTime;
 
 @AllArgsConstructor
-public class GetAllTaskResponseDto {
+public class AllTasksResponseDto {
     private Integer id;
     private String title;
-    private String description;
     private TaskStatus taskStatus;
-    private LocalDateTime createdAt;
 }
