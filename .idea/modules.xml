@@ -6,6 +6,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/java-lesson-17.iml" filepath="$PROJECT_DIR$/java-lesson-17.iml" />
 =======
       <module fileurl="file://$PROJECT_DIR$/java-lesson-18.iml" filepath="$PROJECT_DIR$/java-lesson-18.iml" />
@@ -21,6 +22,9 @@
 =======
       <module fileurl="file://$PROJECT_DIR$/java-lesson-20.iml" filepath="$PROJECT_DIR$/java-lesson-20.iml" />
 >>>>>>> java-lesson-20/main
+=======
+      <module fileurl="file://$PROJECT_DIR$/java-lesson-21.iml" filepath="$PROJECT_DIR$/java-lesson-21.iml" />
+>>>>>>> java-lesson-21/main
     </modules>
   </component>
 </project>
