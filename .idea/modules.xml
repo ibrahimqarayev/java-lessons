@@ -3,10 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/java-lesson-17.iml" filepath="$PROJECT_DIR$/java-lesson-17.iml" />
 =======
       <module fileurl="file://$PROJECT_DIR$/java-lesson-18.iml" filepath="$PROJECT_DIR$/java-lesson-18.iml" />
 >>>>>>> java-lesson-18/main
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Task-Management.iml" filepath="$PROJECT_DIR$/.idea/modules/Task-Management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Task-Management.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Task-Management.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Task-Management.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Task-Management.test.iml" />
+>>>>>>> task-management/main
     </modules>
   </component>
 </project>
