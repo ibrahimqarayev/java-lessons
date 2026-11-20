@@ -8,6 +8,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/java-lesson-17.iml" filepath="$PROJECT_DIR$/java-lesson-17.iml" />
 =======
       <module fileurl="file://$PROJECT_DIR$/java-lesson-18.iml" filepath="$PROJECT_DIR$/java-lesson-18.iml" />
@@ -29,6 +30,9 @@
 =======
       <module fileurl="file://$PROJECT_DIR$/java-lesson-23.iml" filepath="$PROJECT_DIR$/java-lesson-23.iml" />
 >>>>>>> java-lesson-23/main
+=======
+      <module fileurl="file://$PROJECT_DIR$/imt.iml" filepath="$PROJECT_DIR$/imt.iml" />
+>>>>>>> java-task/main
     </modules>
   </component>
 </project>
