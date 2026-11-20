@@ -4,7 +4,6 @@ import com.task.taskmanagement.dto.request.AddTaskRequestDto;
 import com.task.taskmanagement.dto.response.AllTasksResponseDto;
 import com.task.taskmanagement.dto.response.TaskResponseDto;
 import com.task.taskmanagement.entity.TaskEntity;
-import com.task.taskmanagement.entity.TaskPriority;
 import com.task.taskmanagement.entity.TaskStatus;
 import org.springframework.stereotype.Component;
 
