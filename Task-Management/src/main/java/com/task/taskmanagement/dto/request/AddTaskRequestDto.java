@@ -22,5 +22,5 @@ public class AddTaskRequestDto {
 
     @Min(value = 1, message = "Weight must be least 1")
     @Max(value = 10, message = "Weight must be most 10")
-    private String taskWeight;
+    private Short taskWeight;
 }

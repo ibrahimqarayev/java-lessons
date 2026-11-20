@@ -15,6 +15,6 @@ public class TaskResponseDto {
     private String description;
     private TaskStatus taskStatus;
     private TaskPriority taskPriority;
-    private String taskWeight;
+    private Short taskWeight;
     private LocalDateTime createdAt;
 }
